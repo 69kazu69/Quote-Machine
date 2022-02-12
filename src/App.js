@@ -20,17 +20,25 @@ function App() {
   }, {});
   return (
     <div className="App" id="quote-box">
+      <nav class="navbar navbar-dark bg-dark  ">
+  <i class="navbar-brand mx-auto h1">Quotes.</i>
+</nav>
       <header className="App-header">
-        <div id="text">
-          {quote.text}
-        </div>
-        <div id="author">
-          <span> - {quote.author}</span>
-        </div>
-        <Button className="btn" onClick={getQuote} className = "mt-3 mb-3" id="new-quote"> Get Quote.</Button>
-        <div id="tweet-quote">
+      <div class="card bg-dark mx-5 shadow-lg">
+  <div class="card-header">
+    Quote
+  </div>
+  <div class="card-body">
+    <blockquote class="blockquote mb-0">
+      <p>{quote.text}</p>
+      <footer class="blockquote-footer">{quote.author}</footer>
+    </blockquote>
+  </div>
+</div>
+        <div className="d-flex align-items-center w-100 justify-content-around my-5 "><button className="btn btn-warning  mx-5" onClick={getQuote} id="new-quote"> Get Quote.</button>
+        
           
-          <a href="https://twitter.com/intent/tweet"><Button>   Tweet   </Button></a>
+          <button className="btn btn-primary"  onClick={() => { window.location.replace("https://twitter.com/intent/tweet")}}>   Tweet   </button>
           
         </div>
       </header>
