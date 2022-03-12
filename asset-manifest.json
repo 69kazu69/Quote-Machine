@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Quote-Machine/static/css/main.66e286ab.chunk.css",
-    "main.js": "/Quote-Machine/static/js/main.7eed35e9.chunk.js",
-    "main.js.map": "/Quote-Machine/static/js/main.7eed35e9.chunk.js.map",
-    "runtime-main.js": "/Quote-Machine/static/js/runtime-main.9864777f.js",
-    "runtime-main.js.map": "/Quote-Machine/static/js/runtime-main.9864777f.js.map",
-    "static/css/2.383c0125.chunk.css": "/Quote-Machine/static/css/2.383c0125.chunk.css",
-    "static/js/2.ebcc474f.chunk.js": "/Quote-Machine/static/js/2.ebcc474f.chunk.js",
-    "static/js/2.ebcc474f.chunk.js.map": "/Quote-Machine/static/js/2.ebcc474f.chunk.js.map",
-    "static/js/3.b85e46b2.chunk.js": "/Quote-Machine/static/js/3.b85e46b2.chunk.js",
-    "static/js/3.b85e46b2.chunk.js.map": "/Quote-Machine/static/js/3.b85e46b2.chunk.js.map",
-    "index.html": "/Quote-Machine/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/Quote-Machine/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.66e286ab.chunk.css.map": "/Quote-Machine/static/css/main.66e286ab.chunk.css.map",
-    "static/js/2.ebcc474f.chunk.js.LICENSE.txt": "/Quote-Machine/static/js/2.ebcc474f.chunk.js.LICENSE.txt"
+    "main.css": "/Quote-machine/static/css/main.35050f70.chunk.css",
+    "main.js": "/Quote-machine/static/js/main.c8a639b0.chunk.js",
+    "main.js.map": "/Quote-machine/static/js/main.c8a639b0.chunk.js.map",
+    "runtime-main.js": "/Quote-machine/static/js/runtime-main.cd926faa.js",
+    "runtime-main.js.map": "/Quote-machine/static/js/runtime-main.cd926faa.js.map",
+    "static/css/2.4659568d.chunk.css": "/Quote-machine/static/css/2.4659568d.chunk.css",
+    "static/js/2.6f52380c.chunk.js": "/Quote-machine/static/js/2.6f52380c.chunk.js",
+    "static/js/2.6f52380c.chunk.js.map": "/Quote-machine/static/js/2.6f52380c.chunk.js.map",
+    "static/js/3.8c211c83.chunk.js": "/Quote-machine/static/js/3.8c211c83.chunk.js",
+    "static/js/3.8c211c83.chunk.js.map": "/Quote-machine/static/js/3.8c211c83.chunk.js.map",
+    "index.html": "/Quote-machine/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/Quote-machine/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.35050f70.chunk.css.map": "/Quote-machine/static/css/main.35050f70.chunk.css.map",
+    "static/js/2.6f52380c.chunk.js.LICENSE.txt": "/Quote-machine/static/js/2.6f52380c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9864777f.js",
-    "static/css/2.383c0125.chunk.css",
-    "static/js/2.ebcc474f.chunk.js",
-    "static/css/main.66e286ab.chunk.css",
-    "static/js/main.7eed35e9.chunk.js"
+    "static/js/runtime-main.cd926faa.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.6f52380c.chunk.js",
+    "static/css/main.35050f70.chunk.css",
+    "static/js/main.c8a639b0.chunk.js"
   ]
 }
